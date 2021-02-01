@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhbKbjJeI9jzefhfkQSyBHVhZkZ9pbi68NplJ0VV6yOPjRGt7yxg9sDKKeZ36tMCSuGxj2rPGMDSql3xrm9VNg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos VS\\Controle de Funcionarios\\Modal\\Modal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hora de estudar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hora de estudar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\bin\Debug\Cadastr clientes.exe.config
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\bin\Debug\Cadastr clientes.exe
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\bin\Debug\Cadastr clientes.pdb
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr clientes.csprojAssemblyReference.cache
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr_clientes.Properties.Resources.resources
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr clientes.csproj.GenerateResource.cache
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr clientes.csproj.CoreCompileInputs.cache
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr clientes.exe
+D:\Projetos VS\Cadastr clientes\Cadastr clientes\obj\Debug\Cadastr clientes.pdb

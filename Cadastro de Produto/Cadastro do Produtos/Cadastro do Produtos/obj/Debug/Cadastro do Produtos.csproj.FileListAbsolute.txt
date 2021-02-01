@@ -1,0 +1,10 @@
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\bin\Debug\Cadastro do Produtos.exe.config
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\bin\Debug\Cadastro do Produtos.exe
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\bin\Debug\Cadastro do Produtos.pdb
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro do Produtos.csprojAssemblyReference.cache
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro_do_Produtos.Form1.resources
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro_do_Produtos.Properties.Resources.resources
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro do Produtos.csproj.GenerateResource.cache
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro do Produtos.csproj.CoreCompileInputs.cache
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro do Produtos.exe
+D:\Projetos VS\Cadastro do Produtos\Cadastro do Produtos\obj\Debug\Cadastro do Produtos.pdb
